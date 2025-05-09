@@ -1,0 +1,23 @@
+/* comment */
+
+body {
+ background-color: #DFC57B;
+ /*text color*/
+ font-size: 21px;
+letter-spacing: 3px;
+
+}
+h1 {
+ color: #060270 ;
+ font-family: Book Antiqua, Times New Roman;
+}
+
+p {
+
+	font-family: Lucida Bright, Courier New;
+}
+a {
+	color: #FFFFFF;
+
+
+}
