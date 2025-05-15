@@ -5,8 +5,14 @@ body {
  /*text color*/
  font-size: 21px;
 letter-spacing: 3px;
-
 }
+
+#container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+
 h1 {
  color: #060270 ;
  font-family: Book Antiqua, Times New Roman;
@@ -18,6 +24,4 @@ p {
 }
 a {
 	color: #FFFFFF;
-
-
 }
