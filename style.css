@@ -1,10 +1,11 @@
 /* comment */
 
 body {
- background-color: #DFC57B;
+ background-color: #590e0e;
  /*text color*/
  font-size: 21px;
 letter-spacing: 3px;
+color: 	#fcb6d1;
 }
 
 #container {
@@ -14,7 +15,7 @@ letter-spacing: 3px;
 
 
 h1 {
- color: #060270 ;
+ color: #121010 ;
  font-family: Book Antiqua, Times New Roman;
 }
 
